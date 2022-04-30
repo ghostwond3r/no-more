@@ -43,6 +43,8 @@ The install_tools.sh will install tools in new folder classified by category.
 
 See list of tools in the files "list_tools.txt".
 
+![IMG_20220429_230928_176](https://user-images.githubusercontent.com/64184513/166124803-63239410-61d9-4255-add2-7d5525f6fd20.jpg)
+![IMG_20220429_230927_500](https://user-images.githubusercontent.com/64184513/166124816-e92c34fc-14ec-4ef7-a771-886e6a77982c.jpg)
 
 ------------------------------
 How to run
