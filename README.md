@@ -30,7 +30,6 @@ How to run
 
 ------------------------------
 Script no-more.sh
-
 # Open a root terminal and navigate to root directory
 cd /
 
@@ -38,19 +37,23 @@ cd /
 apt-get install git -y
 
 # Clone the repo
-git clone 
+git clone https://github.com/NeverWonderLand/no-more.git
+#
 cd no-more
+#
 chmod +x no-more.sh
+#
 ./no-more.sh
 -------------------------------
 ** After this script it is need to reboot 
 
 ------------------------------
 Script install_tools.sh
-
 # Open root terminal
 cd /root/no-more
+#
 chmod +x install_tools.sh
+#
 ./install_tools.sh
 -------------------------------
 
