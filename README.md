@@ -1,7 +1,8 @@
 
 no-more is a simply way to avoid the pain in the ass of all task after new installation of kali linux.
 
-Can also be used as well by beginner to help on the basic process though.
+
+![IMG_20220429_230925_693](https://user-images.githubusercontent.com/64184513/166124722-3378bdb9-7d3c-4e40-9c4f-aa1a7e57bd59.jpg)
 
 It run on 2 steps; 
 
