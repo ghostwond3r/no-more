@@ -1,3 +1,4 @@
+
 no-more is a simply way to avoid the pain in the ass of all task after new installation of kali linux.
 Can also be used as well by beginner to help on the basic process though.
 
@@ -23,7 +24,7 @@ The no_more.sh will;
     - set environments variables
     - cleaning up
 
-The install_tools.sh will install on new created folder as you see on the images.
+The install_tools.sh will install on new created folder.
 See list of tools in the files "list_tools.txt".
 
 
