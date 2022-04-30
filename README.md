@@ -2,10 +2,12 @@ no-more is a simply way to avoid the pain in the ass of all task after new insta
 Can also be used as well by beginner to help on the basic process though.
 
 It run on 2 steps; 
-    1- no_more.sh (need to reboot after this one)
-      2- intall_tools.sh
-         3- pip_requirements.sh
-
+#
+1- no_more.sh (need to reboot after this one)
+#
+2- intall_tools.sh
+      
+#
 The no_more.sh will;
     - add source list, make all update && upgrade 
     - install all apt packages 
