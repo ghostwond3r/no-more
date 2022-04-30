@@ -9,7 +9,7 @@ It run on 2 steps;
 2- intall_tools.sh
       
 #
-The no_more.sh will;
+The no_more.sh will;/
     - add source list, make all update && upgrade 
     - install all apt packages 
     - install python packages
@@ -33,13 +33,13 @@ How to run
 
 ------------------------------
 Script no-more.sh
-# Open a root terminal and navigate to root directory
+### Open a root terminal and navigate to root directory
 cd /
 
-# You will maybe need install git 
+### You will maybe need install git 
 apt-get install git -y
 
-# Clone the repo
+### Clone the repo
 git clone https://github.com/NeverWonderLand/no-more.git
 #
 cd no-more
@@ -52,7 +52,7 @@ chmod +x no-more.sh
 
 ------------------------------
 Script install_tools.sh
-# Open root terminal
+### Open root terminal
 cd /root/no-more
 #
 chmod +x install_tools.sh
