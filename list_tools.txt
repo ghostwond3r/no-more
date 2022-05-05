@@ -1,4 +1,4 @@
-Total of 78 tools will be install; 
+Total of 77 tools will be install; 
     - fuzzdb
     - SecLists
     - PayloadsAllTheThings
