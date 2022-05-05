@@ -16,7 +16,6 @@ Total of 78 tools will be install;
     - radamsa
     - fuzzer
     - Hacking
-    - Scanners-Box
     - fsociety
     - ATSCAN
     - nuclei && nuclei templates
