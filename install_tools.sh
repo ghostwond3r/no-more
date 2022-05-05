@@ -84,10 +84,10 @@ printf '\n                     - shells (Generating Various SHELL)\n'
 printf '\n                     - ssl (Scanner SSL)\n'
 printf '\n                     - web (Various Web Scanner)\n'
 printf '\n                     - windows (All related Windows Target)\n'
-printf '\n                     - doIT (Technic / exploit / attack)\n'
+printf '\n                     - hacking (Attack related)\n'
 printf '\n-----------------------------------------------------\n\n'
 cd $ROOT_DIR/tools
-mkdir {bruteforce,windows,SE,recon,reversing,web,drkfuz,installer,Ddos,ssl,doIT,shells}
+mkdir {bruteforce,windows,SE,recon,web,drkfuz,installer,Ddos,ssl,hacking,shells}
 clear
 echo "Installing tools..."
 
@@ -124,7 +124,6 @@ clear
 
 pushd installer
 git clone https://github.com/Ha3MrX/Hacking.git
-git clone https://github.com/We5ter/Scanners-Box.git 
 git clone https://github.com/Manisso/fsociety.git
 popd 
 
@@ -158,11 +157,12 @@ git clone https://github.com/trustedsec/social-engineer-toolkit.git
 git clone https://github.com/NeverWonderLand/AdvPhishing.git
 git clone https://github.com/sherlock-project/sherlock.git
 git clone https://github.com/Anish-M-code/URL-obfuscator.git 
+popd
 
 printf '\n-------------Done--------------\n\n'
 clear
 
-pushd doIT
+pushd hacking
 git clone https://github.com/thehackingsage/hacktronian.git
 git clone https://github.com/aydinnyunus/Keylogger.git
 git clone https://github.com/Thibault-69/RAT-Hodin-v2.9.git
@@ -182,7 +182,6 @@ git clone https://github.com/Ha3MrX/DDos-Attack.git
 git clone https://github.com/5inco/PHDoS.git
 git clone https://github.com/Anlos0023/webdos-ddoser.git
 https://github.com/PraneethKarnena/DDoS-Scripts.git
-
 popd 
 
 printf '\n-------------Done--------------\n\n'
