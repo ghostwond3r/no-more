@@ -25,7 +25,7 @@ no-more is a simple way to avoid pain of all task after new install kali, but al
     - set some environments variables
     - cleaning up
 
-## Let's start. Open root terminal and write these command one by one;
+## Let's start. Open root terminal and follow these command one by one;
 
 cd /
 
