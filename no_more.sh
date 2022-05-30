@@ -222,9 +222,9 @@ EOF
 
 # =======================================================
 
-#To use Google and Cloudflare DNS
-echo -e "\n2.\tUse Google and Cloudflare DNS...\n"
-sudo echo -e "nameserver 8.8.8.8\nnameserver 1.1.1.1\nnameserver 8.8.4.4\nnameserver 1.0.0.1" > /etc/resolv.conf
+#To use Cloudflare DNS
+echo -e "\n2.\tUse Cloudflare DNS...\n"
+sudo echo -e "nnameserver 1.1.1.1\nnameserver 1.0.0.1" > /etc/resolv.conf
 
 printf '\n-------------Done--------------\n\n'
 
