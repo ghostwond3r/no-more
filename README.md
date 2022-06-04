@@ -35,9 +35,9 @@ git clone https://github.com/NeverWonderLand/no-more.git
 
 cd no-more
 
-chmod +x no-more.sh
+chmod +x no_more.sh
 
-./no-more.sh
+./no_more.sh
 
 ## You need to reboot your system before the step 2.
 
