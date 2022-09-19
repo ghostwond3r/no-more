@@ -52,6 +52,8 @@ See list of tools in the files "list_tools.txt".
 #
 
 ### Open root terminal again and follow these command;
+cd /
+
 cd /no-more
 
 chmod +x install_tools.sh
