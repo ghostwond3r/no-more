@@ -1,3 +1,5 @@
+# NOT MAINTAIN ANYMORE
+
 no-more is a simple way to avoid pain of all task after new install kali, but also to guide people less experimented. 
 
 **NOTES** It doesn't exist any way to learn hacking without investing;
